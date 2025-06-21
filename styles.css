@@ -5,6 +5,9 @@
     /* transition: all 0.1s linear; */
 }
   
+body {
+    background-color: black;
+}
 
 .empty {
     opacity: 0%;
